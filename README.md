@@ -48,9 +48,9 @@
 
 <div style="background-color: black; color: white; padding: 10px;">
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipakja&show_icons=true&locale=en&layout=compact&theme=dark" alt="dipakja" /></p>
+ <p><img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=dipakja&show_icons=true&theme=dark&locale=en" alt="dipakja" /></p>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dipakja&show_icons=true&locale=en&theme=dark" alt="dipakja" /></p>
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dipakja&show_icons=true&theme=dark&locale=en" alt="dipakja" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipakja&theme=dark" alt="dipakja" /></p>
