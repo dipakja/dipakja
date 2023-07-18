@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm dipak jadhav</h1>
 <h3 align="center">Enthusiastic Programmer</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47zzj0l4g951q1uls4kmza0lv6le11dso120z2e03c&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakja&label=Profile%20views&color=0e75b6&style=flat" alt="dipakja" /> </p>
 
