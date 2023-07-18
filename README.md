@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakja&label=Profile%20views&color=0e75b6&style=flat" alt="dipakja" /> </p>
 
-- 🌱 I’m currently doing open source contribution.
+- 🌱 I’m currently  exploring new techs , trail and error method 
 
 - 📫 How to reach me **dipakja01@gmail.com**
 
