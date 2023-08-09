@@ -46,6 +46,20 @@
  <br>
  <br>
 
+<div>
+<h3>Girl script summer of code (GSSoc) open source contribution</h3>
+<img  style= "width:400px"src="https://img1.niftyimages.com/ufph/wlmr/m_9i?name=JADHAV%20DIPAK%20RAMCHANDRA" alt="girlScript Contribuiton" />
+
+ 
+</div>
+
+
+<br>
+<br>
+
+
+ 
+
 <div style="background-color: black; color: white; padding: 10px;">
 
  <p><img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=dipakja&show_icons=true&theme=dark&locale=en" alt="dipakja" /></p>
