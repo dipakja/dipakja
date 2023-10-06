@@ -16,10 +16,11 @@
 - ⚡ Fun fact **I am a slow learner 😎😎**
 
 <h3 align="left">CONNECT WITH ME :</h3>
-<p align="left">
+<p align="left" >
 <a href="https://linkedin.com/in/www.linkedin.com/in/dipakjadhav02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipakjadhav02" height="30" width="40" /></a>
- 
+  <a href="https://twitter.com/DipakJa44213008" target="blank"><img align="center" src="https://github.com/dipakja/dipakja/assets/104189165/d5f8a6d5-db06-4e9e-a96e-9ff08736f47f" alt="TWITTER" height="50" width="50" /></a>
 </p>
+
 
 <br>
 <br>
@@ -48,13 +49,6 @@
  <br>
  <br>
  <br>
-
-<div>
-<h3>Girl script summer of code (GSSoc) open source contribution</h3>
-<img  style= "width:400px"src="https://img1.niftyimages.com/ufph/wlmr/m_9i?name=JADHAV%20DIPAK%20RAMCHANDRA" alt="girlScript Contribuiton" />
-
- 
-</div>
 
 
 <br>
