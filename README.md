@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm dipak jadhav</h1>
+
 <h3 align="center">Enthusiastic Programmer</h3>
+
+[![An image of @dipakja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipakja)](https://holopin.io/@dipakja)
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47zzj0l4g951q1uls4kmza0lv6le11dso120z2e03c&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
