@@ -18,7 +18,8 @@
 <h3 align="left">CONNECT WITH ME :</h3>
 <p align="left" >
 <a href="https://www.linkedin.com/in/dipakjadhav02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipakjadhav02" height="30" width="40" /></a>
-  <a href="https://twitter.com/DipakJa44213008" target="blank"><img align="center" src="https://github.com/dipakja/dipakja/assets/104189165/d5f8a6d5-db06-4e9e-a96e-9ff08736f47f" alt="TWITTER" height="50" width="50" /></a>
+
+
 </p>
 
 
