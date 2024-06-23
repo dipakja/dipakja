@@ -21,8 +21,22 @@
 <p align="left" >
 <a href="https://www.linkedin.com/in/dipakjadhav02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipakjadhav02" height="30" width="40" /></a>
 
+<a href="https://x.com/DipakJa44213008" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourusername" height="30" width="40" />
+</a>
+
+
+<a href="https://leetcode.com/u/dipak002/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yourusername" height="30" width="40" />
+</a>
 
 </p>
+
+
+
+Check out my projects here: <a href="https://dipakja.github.io/" target="blank">
+My Portfolio
+</a>
 
 
 <br>
