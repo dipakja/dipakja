@@ -3,7 +3,7 @@
 
 <h1 align="center"> <a href="https://drive.google.com/file/d/1xLbNzpX405mg3vuCjbDKVmgLVPbnmBnR/view?usp=sharing">My Resume : 👉</a> </h1>
 
-<h2 align="center">Enthusiastic Programmer</h2>
+<h2 align="center">Enthusiastic Programmer And CyberSecurity Analyst</h2>
 
 [![An image of @dipakja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipakja)](https://holopin.io/@dipakja)
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakja&label=Profile%20views&color=0e75b6&style=flat" alt="dipakja" /> </p>
 
-- 🌱 I’m currently  exploring new techs, trial and error method 
+- 🌱 I’m working in cyberSecurity domain.
 
 - 📫 How to reach me **dipakja01@gmail.com**
 
@@ -24,8 +24,6 @@
 <a href="https://x.com/DipakJa44213008" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourusername" height="30" width="40" />
 </a>
-
-
 <a href="https://leetcode.com/u/dipak002/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yourusername" height="30" width="40" />
 </a>
@@ -47,20 +45,15 @@ My Portfolio
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
  
  <img alt="JAVA" src="https://img.shields.io/badge/java-%2300599C.svg?&style=for-the-badge&logo=java&ogoColor=white"/> 
-
+ <img alt="Python" src="https://img.shields.io/badge/python-%2300599C.svg?&style=for-the-badge&logo=java&ogoColor=white"/> 
  
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <br>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/> 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
 
  </p>
  <br>
