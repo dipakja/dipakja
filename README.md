@@ -13,7 +13,7 @@
 
 - 🌱 I’m working in cyberSecurity domain.
 
-- 📫 How to reach me **dipakja01@gmail.com**
+- 📫 How to reach me **dipakjadhav1024@gmail.com**
 
 - ⚡ Fun fact **I am a slow learner 😎😎**
 
